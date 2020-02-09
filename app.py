@@ -2,6 +2,8 @@ import pandas as pd
 import seaborn as sns
 import numpy as np
 import matplotlib.pyplot as plt
+# for jupyter notebook
+# % matplotlib inline
 
 # Analyzing data
 df = pd.read_csv('files/FullData.csv')
